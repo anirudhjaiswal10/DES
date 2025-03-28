@@ -1,0 +1,93 @@
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Iteration 1:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 12 34 56 78 9A BC DE F0 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 13 34 56 78 9A BC DE F0 
+Modified Ciphertext: 13 34 56 78 9A BC DE F0 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+Iteration 2:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 03 25 47 69 8B AD CF E1 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 31 16 74 5A B8 9E FC D2 
+Modified Ciphertext: 31 16 74 5A B8 9E FC D2 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+Iteration 3:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 30 16 74 5A B8 9E FC D2 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 02 25 47 69 8B AD CF E1 
+Modified Ciphertext: 02 25 47 69 8B AD CF E1 
+Hamming Distance: 33
+Avalanche Effect: 51.56%
+Iteration 4:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 21 07 65 4B A9 8F ED C3 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 20 07 65 4B A9 8F ED C3 
+Modified Ciphertext: 20 07 65 4B A9 8F ED C3 
+Hamming Distance: 33
+Avalanche Effect: 51.56%
+Iteration 5:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 56 70 12 3C DE F8 9A B4 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 9B BC DE F0 12 34 56 78 
+Modified Ciphertext: 9B BC DE F0 12 34 56 78 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+Iteration 6:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 47 61 03 2D CF E9 8B A5 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): B9 9E FC D2 30 16 74 5A 
+Modified Ciphertext: B9 9E FC D2 30 16 74 5A 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+Iteration 7:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 74 52 30 1E FC DA B8 96 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 8A AD CF E1 03 25 47 69 
+Modified Ciphertext: 8A AD CF E1 03 25 47 69 
+Hamming Distance: 33
+Avalanche Effect: 51.56%
+Iteration 8:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 65 43 21 0F ED CB A9 87 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): A8 8F ED C3 21 07 65 4B 
+Modified Ciphertext: A8 8F ED C3 21 07 65 4B 
+Hamming Distance: 33
+Avalanche Effect: 51.56%
+Iteration 9:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 9A BC DE F0 12 34 56 78 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 57 70 12 3C DE F8 9A B4 
+Modified Ciphertext: 57 70 12 3C DE F8 9A B4 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+Iteration 10:
+Original Plaintext: 33 0C FF CC FF C0 33 00 
+Original IV: 8B AD CF E1 03 25 47 69 
+Original Ciphertext: 33 0C FF CC FF C0 33 00 
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 75 52 30 1E FC DA B8 96 
+Modified Ciphertext: 75 52 30 1E FC DA B8 96 
+Hamming Distance: 31
+Avalanche Effect: 48.44%
+
+Final Average Avalanche Effect: 49.69%

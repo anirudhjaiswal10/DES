@@ -1,0 +1,102 @@
+Iteration 1:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 83AC0239D862040D
+Original Ciphertext: 7050FEFA1B513B0E
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: 7150FEFA1B513B0E
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 2:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 11D7804799E0CA7E
+Original Ciphertext: 11E7BF479910F6BD
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: 10E7BF479910F6BD
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 3:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: FCE1835994E36346
+Original Ciphertext: CFDEBC6A9713A089
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: CEDEBC6A9713A089
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 4:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 64E7366F447A25EA
+Original Ciphertext: ABD7C653777529D5
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: AAD7C653777529D5
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 5:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 3F8A372F397818D0
+Original Ciphertext: 0C49C4D3C97417E0
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: 0D49C4D3C97417E0
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 6:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: D46E186495F376C4
+Original Ciphertext: DB91DB5495338AC8
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: DA91DB5495338AC8
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 7:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 43BDDF7B90C63277
+Original Ciphertext: B072107B9F0902BB
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: B172107B9F0902BB
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 8:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: FCA28605F50F6EFC
+Original Ciphertext: CF5DB6C605CFAEFC
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: CE5DB6C605CFAEFC
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 9:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: 43CE7C37A3B10349
+Original Ciphertext: B0C143F7ACB23086
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: B1C143F7ACB23086
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+Iteration 10:
+
+Original Plaintext: 330CFFCCFFC03300
+Original IV: B2F6216D0DD3FDBC
+Original Ciphertext: 42F5ED52F123CD7C
+Flipping bit: 1
+Modified Plaintext (Flipped Bit 1): 310CFFCCFFC03300
+Modified Ciphertext: 43F5ED52F123CD7C
+Hamming Distance: 1
+Avalanche Effect: 1.56%
+
+Final Average Avalanche Effect: 1.56%

@@ -1,0 +1,55 @@
+=== DES CBC Mode Correlation Results ===
+Iteration 1:
+Plaintext: FA0CFDEBFC2EC416
+Ciphertext: F50CFED7FC1DC829
+Correlation: 0.295295
+
+Iteration 2:
+Plaintext: C298B8B3B400438B
+Ciphertext: C164747378008347
+Correlation: 0.222672
+
+Iteration 3:
+Plaintext: E2E1B56A7CF9C2A2
+Ciphertext: D1D27A95BCF6C151
+Correlation: -0.129412
+
+Iteration 4:
+Plaintext: 57CC01866F1F6EF0
+Ciphertext: ABCC02499F2F9DF0
+Correlation: 0.186706
+
+Iteration 5:
+Plaintext: 607DE9BDEBB5B54C
+Ciphertext: 90BED67ED77A7A8C
+Correlation: -0.165992
+
+Iteration 6:
+Plaintext: 775AF9028D4243C8
+Ciphertext: BBA5F6014E8183C4
+Correlation: 0.054187
+
+Iteration 7:
+Plaintext: 5B07008B338905BB
+Ciphertext: A70B004733460A77
+Correlation: 0.167167
+
+Iteration 8:
+Plaintext: 096A09CDF89128B9
+Ciphertext: 069506CEF4621476
+Correlation: -0.142857
+
+Iteration 9:
+Plaintext: BDA8627C3A9E1997
+Ciphertext: 7E5491BC356D266B
+Correlation: -0.254902
+
+Iteration 10:
+Plaintext: F526978F9635866B
+Ciphertext: FA196B4F693A4997
+Correlation: -0.324138
+
+
+=== Overall Correlation Result ===
+Average Correlation: -0.009127
+Correlation Effect: 0.91%
